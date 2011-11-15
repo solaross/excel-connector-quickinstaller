@@ -1,0 +1,20 @@
+#summary Instructions for using the Excel Connector Quick Installer
+
+= Introduction =
+
+The Excel-Connector Quick Installer allows users to quickly install the [http://code.google.com/p/excel-connector/ Salesforce Excel Connector].
+
+= Details =
+1. Download the [http://code.google.com/p/excel-connector-quickinstaller/downloads/list file].
+
+2. Unzip the package to your local drive.
+
+3. Double-click to open in Excel.
+
+If the Excel Security Macro warning appears, then turn it <a href="http://office.microsoft.com/en-us/excel-help/change-macro-security-settings-in-excel-HP010096919.aspx">off</a>.
+
+4. Enter the directory to which you are downloading the Office Toolkit and Excel Connector. (for example, 'C:\ExcelConnector\').
+
+5. Click each of the buttons per the instructions.
+
+6. Restart Excel
